@@ -5,7 +5,7 @@ from telebot import types
 from openpyxl import load_workbook
 from openpyxl.utils.cell import get_column_letter
 #token
-token='6433583971:AAGCyYuxXq20J4aDwvVzOARe75xPTcCNtjQ'
+token='***'
 bot=telebot.TeleBot(token)
 ChatID = None
 #Excel
